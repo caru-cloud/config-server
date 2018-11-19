@@ -6,4 +6,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/rudeo512/cloud.git
+          uri: https://github.com/caru-cloud/config.git
