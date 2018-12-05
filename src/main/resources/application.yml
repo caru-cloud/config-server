@@ -4,6 +4,8 @@ server:
 spring:
   profiles:
     active: local
+  application:
+    name: config
   cloud:
     config:
       server:
