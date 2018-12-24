@@ -11,5 +11,3 @@ spring:
       server:
         git:
           uri: https://github.com/caru-cloud/config.git
-    bus:
-      enabled: true
